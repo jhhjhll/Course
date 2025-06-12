@@ -1,0 +1,194 @@
+[
+  {
+    "name": "США",
+    "capital": "Вашингтон",
+    "population": 400000000,
+    "area": 10000000,
+    "partWorld": "Пн. Америка",
+    "additionalFacts": "Найбільша економіка світу"
+  },
+  {
+    "name": "Франція",
+    "capital": "Париж",
+    "population": 80000000,
+    "area": 750000,
+    "partWorld": "Європа",
+    "additionalFacts": "Столиця туризму"
+  },
+  {
+    "name": "Китай",
+    "capital": "Пекін",
+    "population": 1450000000,
+    "area": 950000,
+    "partWorld": "Азія",
+    "additionalFacts": "Найбільший  азійський \"Лев\""
+  },
+  {
+    "name": "Індія",
+    "capital": "Нью-Делі",
+    "population": 1500000000,
+    "area": 3300000,
+    "partWorld": "Азія",
+    "additionalFacts": "Найбільша за неаселенням країна"
+  },
+  {
+    "name": "Японія",
+    "capital": "Токіо",
+    "population": 125000000,
+    "area": 380000,
+    "partWorld": "Азія",
+    "additionalFacts": "Країна  іновацій"
+  },
+  {
+    "name": "ОАЕ",
+    "capital": "Абу-Дабі",
+    "population": 10500000,
+    "area": 83000,
+    "partWorld": "Азія",
+    "additionalFacts": "Роскіш та бідність в одному місті "
+  },
+  {
+    "name": "Нігерія",
+    "capital": "Абужда",
+    "population": 220000000,
+    "area": 920000,
+    "partWorld": "Африка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Єгипет",
+    "capital": "Каїр",
+    "population": 110000000,
+    "area": 1000000,
+    "partWorld": "Африка",
+    "additionalFacts": "Має найдовшу в світі річку, а також загаткові піраміди"
+  },
+  {
+    "name": "ПАР",
+    "capital": "Преторія",
+    "population": 60000000,
+    "area": 1200000,
+    "partWorld": "Африка",
+    "additionalFacts": "Передова економіка Африки"
+  },
+  {
+    "name": "Німеччина",
+    "capital": "Берлін",
+    "population": 83000000,
+    "area": 350000,
+    "partWorld": "Європа",
+    "additionalFacts": "Найбільша економіка Європи"
+  },
+  {
+    "name": "Велика Британія",
+    "capital": "Лондон",
+    "population": 67000000,
+    "area": 240000,
+    "partWorld": "Європа",
+    "additionalFacts": "Колись найбільша імперія в світі"
+  },
+  {
+    "name": "Україна",
+    "capital": "Київ",
+    "population": 41000000,
+    "area": 600000,
+    "partWorld": "Європа",
+    "additionalFacts": "Найбільша країна Європи"
+  },
+  {
+    "name": "Італія",
+    "capital": "Рим",
+    "population": 60000000,
+    "area": 300000,
+    "partWorld": "Європа",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Канада",
+    "capital": "Оттава",
+    "population": 40000000,
+    "area": 10000000,
+    "partWorld": "Пн. Америка",
+    "additionalFacts": "Колись колонія Великої Британії"
+  },
+  {
+    "name": "Мексика",
+    "capital": "Мехіко",
+    "population": 130000000,
+    "area": 2000000,
+    "partWorld": "Пн. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Куба",
+    "capital": "Гавана",
+    "population": 11000000,
+    "area": 100000,
+    "partWorld": "Пн. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Бразилія",
+    "capital": "Бразиліа",
+    "population": 215000000,
+    "area": 8500000,
+    "partWorld": "Пд. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Аргентина",
+    "capital": "Буенос-Айрес",
+    "population": 45000000,
+    "area": 2700000,
+    "partWorld": "Пд. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Колумбія",
+    "capital": "Богота",
+    "population": 52000000,
+    "area": 1100000,
+    "partWorld": "Пд. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Перу",
+    "capital": "Ліма",
+    "population": 34000000,
+    "area": 1300000,
+    "partWorld": "Пд. Америка",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Австралія",
+    "capital": "Канберра",
+    "population": 26000000,
+    "area": 7700000,
+    "partWorld": "Австралія і Океанія",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Нова Зеландія",
+    "capital": "Веллінгтон",
+    "population": 5000000,
+    "area": 270000,
+    "partWorld": "Австралія і Океанія",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Папуа Нова Гвінея",
+    "capital": "Порт-Морсбіс",
+    "population": 10000000,
+    "area": 460000,
+    "partWorld": "Австралія і Океанія",
+    "additionalFacts": ""
+  },
+  {
+    "name": "Фіджі",
+    "capital": "Сува",
+    "population": 900000,
+    "area": 18000,
+    "partWorld": "Австралія і Океанія",
+    "additionalFacts": ""
+  }
+]

@@ -14,7 +14,7 @@ namespace Course
 
         public JSON(string fileName = "countries.json")
         {
-            filePart = Path.Combine(Application.StartupPath, fileName);
+            filePart = Path.Combine(Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.FullName, fileName);
         }
 
         //завантаження інформації з файлу
