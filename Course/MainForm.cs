@@ -91,6 +91,7 @@ namespace Course
                 Country newInfoCoutry = formToAdd.Country;
                 collection.Add(newInfoCoutry);
                 AddCountryToTable(newInfoCoutry);
+                RefreshCountriesList();
                 SaveData();
                 MessageBox.Show("Країну успішно додано");
             }
